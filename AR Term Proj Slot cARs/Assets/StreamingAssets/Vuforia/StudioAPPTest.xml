@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="businesscard2-01-01" size="0.101600 0.063500" />
+    <ImageTarget name="businesscard3-01" size="0.101600 0.063500" />
+    <ImageTarget name="BusinessCard-01" size="0.095250 0.059531" />
+  </Tracking>
+</QCARConfig>
