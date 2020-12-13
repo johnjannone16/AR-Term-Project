@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="pixel" size="0.050800 0.050800" />
+    <ImageTarget name="straight" size="0.050800 0.050800" />
+    <ImageTarget name="startstraight" size="0.050800 0.050800" />
+    <ImageTarget name="camotarget" size="0.050800 0.050800" />
+    <ImageTarget name="slotcarstarget2" size="0.457200 0.457200" />
+    <ImageTarget name="slotcarstarget" size="0.914000 0.914000" />
+  </Tracking>
+</QCARConfig>
